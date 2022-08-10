@@ -1,4 +1,4 @@
-Program my_4
+Program my_2659
  implicit none
  INTEGER, PARAMETER :: LEN_STR = 80
  INTEGER :: i,j,counter
